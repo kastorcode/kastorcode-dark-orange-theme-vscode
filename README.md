@@ -6,10 +6,10 @@
 
 This is a dark orange theme of my personal brand as a developer.
 
-> 👷 Developed by Matheus Ramalho de Oliveira.
-🔨 Systems Analyst, Full-Stack Developer.
-🏡 Goiânia, Goiás, Brasil.
-✉️ kastorcode@gmail.com
+> 👷 Developed by Matheus Ramalho de Oliveira.  
+🔨 Systems Analyst, Full-Stack Developer.  
+🏡 Goiânia, Goiás, Brasil.  
+✉️ kastorcode@gmail.com  
 👍 [instagram.com/kastorcode](https://www.instagram.com/kastorcode)
 
 #### Tested with:
