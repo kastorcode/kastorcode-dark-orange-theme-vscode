@@ -12,6 +12,10 @@
     "maintainers": [
       "Matheus Ramalho de Oliveira <kastorcode@gmail.com>"
     ],
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/kastorcode/kastorcode-dark-orange-theme-vscode.git"
+    },
     "engines": {
         "vscode": "^1.59.0"
     },
