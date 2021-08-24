@@ -7,7 +7,7 @@
     "homepage": "https://www.instagram.com/kastorcode",
     "publisher": "kastorcode",
     "scripts": {
-      "pack": "vsce package"
+      "pack": "vsce package -o bundles/kastorcode-dark-orange-theme.vsix"
     },
     "maintainers": [
       "Matheus Ramalho de Oliveira <kastorcode@gmail.com>"
